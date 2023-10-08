@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+## Short Bio
 
-I am a Ph.D. student at ...
+I am currently a fourth-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University.
 
 ## Research Interests
 
@@ -13,10 +13,10 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** I will serve as the leader of A Project Supported by Scientific Research Fund of Zhejiang University (2023.10-2024.10).
+- **[Oct. 2023]** Our paper about noisy dataset classification is accepted to Neurocomputing (IF=5.779).
+- **[Sep. 2023]** Our paper about artificial intelligence for retrosynthesis is accepted to WIREs Computational Molecular Science (IF=11.5).
+- **[Jul. 2022]** Our paper about molecular property attribution is published at Advanced Intelligent Systems (IF=7.4).
 
 {% include_relative _includes/publications.md %}
 
