@@ -4,15 +4,19 @@ layout: homepage
 
 ## Short Bio
 
-I am currently a fourth-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University.
+I am currently a fifth-year Ph.D. student in the College of Computer Science and Technology at Zhejiang University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer aided drug design**
+- **Machine Learning**
 
 ## News
 
+- **[Sep. 2024]** Our paper about association pattern is accepted to NeurIPS 2024 (CCF-A).
+- **[Sep. 2024]** Our paper about vision mamba is accepted to NeurIPS 2024 (CCF-A).
+- **[Sep. 2024]** My project regarding drug-target interaction analysis has been recognized as an exemplary practice project at the provincial level in Zhejiang, China.
+- **[Apr. 2024]** Our paper is accepted to IJCAI 2024 (CCF-A).
 - **[Apr. 2024]** Our paper about molecular property prediction is accepted to Communications Chemistry (JCR Q1, IF=5.9).
 - **[Oct. 2023]** I will serve as the leader of A Project Supported by Scientific Research Fund of Zhejiang University (2023.10-2024.10).
 - **[Oct. 2023]** Our paper about noisy dataset classification is accepted to Neurocomputing (JCR Q1, IF=5.779).
