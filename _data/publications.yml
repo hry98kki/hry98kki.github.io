@@ -1,7 +1,7 @@
 main:
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, 
+    authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Zunlei Feng, Zipeng Zhong, Shaolun Yao, Jiacong Hu, Mingjiang Duan, Xingen Wang, Jie Song, Mingli Song
     conference_short: NeurIPS
     conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -10,11 +10,21 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Poster Presentation
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Jiacong Hu, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Lingxiang Jia</strong>,
+  - title: Vision Mamba Mender
+    authors: Jiacong Hu, Anda Cao, Zunlei Feng, Shengxuming Zhang, Yi Wang, <strong>Lingxiang Jia</strong>, Mingli Song
     conference_short: NeurIPS
     conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Poster Presentation
+
+  - title: Improving Adversarial Robustness via Feature Pattern Consistency Constraint
+    authors: Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, Shunyu Liu, Xiaotian Yu, <strong>Lingxiang Jia</strong>, Mingli Song
+    conference_short: IJCAI
+    conference: The Thirty-third International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2024.
+    pdf: https://www.ijcai.org/proceedings/2024/0094.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
@@ -22,9 +32,10 @@ main:
 
   - title: Recent advances in deep learning for retrosynthesis
     authors: Zipeng Zhong, Jie Song, Zunlei Feng, Tiantao Liu, <strong>Lingxiang Jia</strong>, Shaolun Yao, Tingjun Hou, Mingli Song
-    conference_short: AISY
+    # conference_short: AISY
     conference: "Wiley Interdisciplinary Reviews: Computational Molecular Science, 2024."
     pdf: https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcms.1694
+    image: ./assets/img/teaser_example_2.png
 
   - title: "Root-aligned SMILES: a tight representation for chemical reaction prediction"
     authors: Zipeng Zhong, Jie Song, Zunlei Feng, Tiantao Liu, <strong>Lingxiang Jia</strong>, Shaolun Yao, Min Wu, Tingjun Hou, Mingli Song
