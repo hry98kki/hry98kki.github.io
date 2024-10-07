@@ -30,9 +30,9 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Poster Presentation
 
-  - title: Recent advances in deep learning for retrosynthesis
+  - title: Recent Advances in Deep Learning for Retrosynthesis
     authors: Zipeng Zhong, Jie Song, Zunlei Feng, Tiantao Liu, <strong>Lingxiang Jia</strong>, Shaolun Yao, Tingjun Hou, Mingli Song
-    # conference_short: AISY
+    conference_short: WIRES COMPUT MOL SCI
     conference: "Wiley Interdisciplinary Reviews: Computational Molecular Science, 2024."
     pdf: https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcms.1694
     image: ./assets/img/wcms1694.jpg
@@ -40,7 +40,7 @@ main:
 
   - title: "Root-aligned SMILES: a tight representation for chemical reaction prediction"
     authors: Zipeng Zhong, Jie Song, Zunlei Feng, Tiantao Liu, <strong>Lingxiang Jia</strong>, Shaolun Yao, Min Wu, Tingjun Hou, Mingli Song
-    # conference_short: AISY
+    conference_short: CHEM SCI
     conference: Chemical Science, 2022.
     pdf: https://pubs.rsc.org/en/content/articlepdf/2022/sc/d2sc02763a
     code: https://github.com/otori-bird/retrosynthesis
@@ -48,7 +48,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aCtJHvwhoRMJ:scholar.google.com/&output=citation&scisdr=ClHYdT8wEKfz6bu6Em0:AFWwaeYAAAAAZwO8Cm3d_fy9SiZ7GebGm1MaHlo&scisig=AFWwaeYAAAAAZwO8CkelrQIXhZ7XR7GyQ1T2xTM&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/ChemicalScience.jpeg
 
-  - title: Explainable Fragment‐Based Molecular Property Attribution
+  - title: "Explainable Fragment‐Based Molecular Property Attribution"
     authors: <strong>Lingxiang Jia</strong>, Zunlei Feng, Haotian Zhang, Jie Song, Zipeng Zhong, Shaolun Yao, Mingli Song
     conference_short: AISY
     conference: Advanced Intelligent Systems, 2022.
