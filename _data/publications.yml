@@ -32,7 +32,8 @@ main:
 
   - title: Recent Advances in Deep Learning for Retrosynthesis
     authors: Zipeng Zhong, Jie Song, Zunlei Feng, Tiantao Liu, <strong>Lingxiang Jia</strong>, Shaolun Yao, Tingjun Hou, Mingli Song
-    conference_short: WIRES COMPUT MOL SCI
+    conference_short: WIRES
+    # conference_short: WIRES COMPUT MOL SCI
     conference: "Wiley Interdisciplinary Reviews: Computational Molecular Science, 2024."
     pdf: https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcms.1694
     image: ./assets/img/wcms1694.jpg
