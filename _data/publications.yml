@@ -4,8 +4,8 @@ main:
     authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Zunlei Feng, Zipeng Zhong, Shaolun Yao, Jiacong Hu, Mingjiang Duan, Xingen Wang, Jie Song, Mingli Song
     conference_short: NeurIPS
     conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: https://openreview.net/pdf?id=LI5KmimXbM
+    code: https://github.com/hry98kki/PatternBERP
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Poster Presentation
@@ -14,8 +14,8 @@ main:
     authors: Jiacong Hu, Anda Cao, Zunlei Feng, Shengxuming Zhang, Yi Wang, <strong>Lingxiang Jia</strong>, Mingli Song
     conference_short: NeurIPS
     conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: https://openreview.net/pdf?id=9VnevS2YoR
+    code: https://github.com/jiaconghu/Vision-Mamba-Mender
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Poster Presentation
