@@ -9,12 +9,12 @@ I am currently a fifth-year Ph.D. student in the College of Computer Science and
 ## Research Interests
 
 - **Bioinformatics**
-    - **Drug ADMET**
-    - **Drug-Target Interaction**
-    - **Genome-Wide Association Study**
+    - Drug ADMET
+    - Drug-Target Interaction
+    - Genome-Wide Association Study
 - **Machine Learning**
-    - **Graph Representation Learning**
-    - **Pattern Mining**
+    - Graph Representation Learning
+    - Pattern Mining
 
 ## News
 

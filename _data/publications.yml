@@ -1,6 +1,6 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: Association Pattern-aware Fusion for Biological Entity Relationship Prediction
     authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Zunlei Feng, Zipeng Zhong, Shaolun Yao, Jiacong Hu, Mingjiang Duan, Xingen Wang, Jie Song, Mingli Song
     conference_short: NeurIPS
     conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
