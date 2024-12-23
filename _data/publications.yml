@@ -1,5 +1,25 @@
 main:
 
+  - title: Association Pattern-enhanced Molecular Representation Learning
+    authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Tian Qiu, Shaolun Yao, Liang Xue, Jie Lei, Jie Song, Mingli Song, Zunlei Feng 
+    conference_short: AAAI
+    conference: The Thirty-ninth Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    # pdf: https://openreview.net/pdf?id=LI5KmimXbM
+    # code: https://github.com/hry98kki/PatternBERP
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Poster Presentation
+
+  - title: Global Attribute-Association Pattern Aggregation for Graph Fraud Detection
+    authors: Mingjiang Duan, Da He, Tongya Zheng, <strong>Lingxiang Jia</strong>, Mingli Song, Xinyu Wang, Zunlei Feng
+    conference_short: AAAI
+    conference: The Thirty-ninth Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    # pdf: https://openreview.net/pdf?id=LI5KmimXbM
+    # code: https://github.com/hry98kki/PatternBERP
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Poster Presentation
+
   - title: Association Pattern-aware Fusion for Biological Entity Relationship Prediction
     authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Zunlei Feng, Zipeng Zhong, Shaolun Yao, Jiacong Hu, Mingjiang Duan, Xingen Wang, Jie Song, Mingli Song
     conference_short: NeurIPS
