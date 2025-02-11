@@ -18,7 +18,7 @@ I am currently a fifth-year Ph.D. student in the College of Computer Science and
 
 ## News
 
-- **[Jan. 2025]** Both the two accepted papers are both selected as **oral presentation** (Top 4.6%) in AAAI 2025.
+- **[Jan. 2025]** Both the two accepted papers are selected as **oral presentation** (Top 4.6%) in AAAI 2025.
 - **[Dec. 2024]** One paper about molecular representation learning is accepted to AAAI 2025 (CORE A*, CCF-A).
 - **[Dec. 2024]** One paper about graph fraud detection is accepted to AAAI 2025 (CORE A*, CCF-A).
 - **[Nov. 2024]** The leading project supported by the Scientific Research Fund of Zhejiang University (2023.10-2024.10) has been successfully passed the final evaluation.
