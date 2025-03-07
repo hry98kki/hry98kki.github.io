@@ -17,7 +17,7 @@ I am currently a fifth-year Ph.D. student in the College of Computer Science and
     - Pattern Mining
 
 ## News
-
+- **[Mar. 2025]** One paper is accepted to Journal of Software (CCF-A), which is one of three major journals in the field of computer science in China.
 - **[Jan. 2025]** Both the two accepted papers are selected as **oral presentation** (Top 4.6%) in AAAI 2025.
 - **[Dec. 2024]** One paper about molecular representation learning is accepted to AAAI 2025 (CORE A*, CCF-A).
 - **[Dec. 2024]** One paper about graph fraud detection is accepted to AAAI 2025 (CORE A*, CCF-A).
