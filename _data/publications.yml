@@ -4,7 +4,7 @@ main:
     authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Tian Qiu, Shaolun Yao, Liang Xue, Jie Lei, Jie Song, Mingli Song, Zunlei Feng 
     conference_short: AAAI
     conference: The Thirty-ninth Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    # pdf: https://openreview.net/pdf?id=LI5KmimXbM
+    pdf: https://doi.org/10.1609/aaai.v39i17.33935
     code: https://github.com/hry98kki/APMP
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
@@ -14,8 +14,8 @@ main:
     authors: Mingjiang Duan, Da He, Tongya Zheng, <strong>Lingxiang Jia</strong>, Mingli Song, Xinyu Wang, Zunlei Feng
     conference_short: AAAI
     conference: The Thirty-ninth Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    # pdf: https://openreview.net/pdf?id=LI5KmimXbM
-    # code: https://github.com/hry98kki/PatternBERP
+    pdf: https://doi.org/10.1609/aaai.v39i11.33264
+    code: https://github.com/AtwoodDuan/GAAP
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Oral Presentation
