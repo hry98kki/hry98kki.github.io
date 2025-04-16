@@ -7,7 +7,7 @@ main:
     pdf: https://doi.org/10.1609/aaai.v39i17.33935
     code: https://github.com/hry98kki/APMP
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/jlx-AAAI.png
     notes: Oral Presentation
 
   - title: Global Attribute-Association Pattern Aggregation for Graph Fraud Detection
@@ -17,7 +17,7 @@ main:
     pdf: https://doi.org/10.1609/aaai.v39i11.33264
     code: https://github.com/AtwoodDuan/GAAP
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/dmj-AAAI.png
     notes: Oral Presentation
 
   - title: Association Pattern-aware Fusion for Biological Entity Relationship Prediction
@@ -27,7 +27,7 @@ main:
     pdf: https://openreview.net/pdf?id=LI5KmimXbM
     code: https://github.com/hry98kki/PatternBERP
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/jlx-NeurIPS.png
     notes: Poster Presentation
 
   - title: Vision Mamba Mender
@@ -37,7 +37,7 @@ main:
     pdf: https://openreview.net/pdf?id=9VnevS2YoR
     code: https://github.com/jiaconghu/Vision-Mamba-Mender
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/hjc-NeurIPS.png
     notes: Poster Presentation
 
   - title: Improving Adversarial Robustness via Feature Pattern Consistency Constraint
@@ -47,7 +47,7 @@ main:
     pdf: https://www.ijcai.org/proceedings/2024/0094.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sVjxZr2BcU8J:scholar.google.com/&output=citation&scisdr=ClHYdR8zEMj16bvo-xw:AFWwaeYAAAAAZwPu4xzB9Lbx-Bf60DgZ_uGxBVo&scisig=AFWwaeYAAAAAZwPu42HnHBKJrJ3n2GXNavHqCas&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/hjc-IJCAI.png
     notes: Poster Presentation
 
   - title: Recent Advances in Deep Learning for Retrosynthesis
