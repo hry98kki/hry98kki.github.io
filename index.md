@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am currently a Researcher in State Key Laboratory of Blockchain and Data Security, Zhejiang University, Hangzhou, China. I received my Ph.D. degree in the College of Computer Science and Technology at Zhejiang University in June 2025, majoring in Artificial Intelligence with a focus on Drug discovery (AIDD).
+I am currently a Researcher in State Key Laboratory of Blockchain and Data Security, Zhejiang University, Hangzhou, China. I received my Ph.D. degree in the College of Computer Science and Technology at Zhejiang University in June 2025, majoring in Artificial Intelligence Drug Discovery (AIDD).
 
 
 ## Research Interests
@@ -20,7 +20,7 @@ I am currently a Researcher in State Key Laboratory of Blockchain and Data Secur
 
 ## News
 - **[Jul. 2025]** One paper about drug-target mechanism of action is accepted to ECAI 2025 (CORE A, CCF-B).
-- **[Mar. 2025]** Our work "Recent advances in deep learning for retrosynthesis" is recognized as the top 10 most-cited papers published by WIREs Computational Molecular Science in 2023.
+- **[Mar. 2025]** Our work ''Recent advances in deep learning for retrosynthesis'' is recognized as the top 10 most-cited papers published by WIREs Computational Molecular Science in 2023.
 - **[Mar. 2025]** One paper is accepted to Journal of Software (CCF-A), which is one of three top-tier journals in the field of computer science in China.
 - **[Jan. 2025]** Both the two accepted papers are selected as **oral presentation** (Top 4.6%) in AAAI 2025.
 - **[Dec. 2024]** One paper about molecular representation learning is accepted to AAAI 2025 (CORE A*, CCF-A).
