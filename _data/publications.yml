@@ -1,5 +1,27 @@
 main:
 
+  - title: 	TED-DTMoA: Tri-Comparison Expertise Decision for Drug-Target Mechanism of Action
+    authors: <strong>Lingxiang Jia</strong>, Zipeng Zhong, Shaolun Yao, Jie Song, Mingli Song, Zunlei Feng
+    conference_short: ECAI
+    conference: The Twenty-eighth European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2025.
+    # pdf: https://doi.org/10.1609/aaai.v39i11.33264
+    # code: https://github.com/AtwoodDuan/GAAP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/dmj-AAAI.png
+    notes: Poster Presentation
+
+    
+  - title: Path-aggregation-based Graph Fraud Detection
+    authors: Tian Qiu, <strong>Lingxiang Jia</strong>, Yang Gao, Zunlei Feng, Yi Gao, Mingli Song
+    conference_short: JOS
+    conference: Journal of Software, 2025.
+    pdf: https://www.jos.org.cn/jos/article/pdf/7423
+    code: https://github.com/horrible-dong/PA-GNN
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aCtJHvwhoRMJ:scholar.google.com/&output=citation&scisdr=ClHYdT8wEKfz6bu6Em0:AFWwaeYAAAAAZwO8Cm3d_fy9SiZ7GebGm1MaHlo&scisig=AFWwaeYAAAAAZwO8CkelrQIXhZ7XR7GyQ1T2xTM&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/ChemicalScience.jpeg
+
+
   - title: Association Pattern-enhanced Molecular Representation Learning
     authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Tian Qiu, Shaolun Yao, Liang Xue, Jie Lei, Jie Song, Mingli Song, Zunlei Feng 
     conference_short: AAAI
