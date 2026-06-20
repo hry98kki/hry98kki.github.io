@@ -1,6 +1,6 @@
-<h2 style="margin: 60px 0px 10px;">News</h2>
+<!-- <h2 style="margin: 60px 0px 10px;">News</h2>
 
-<ul>
+<!-- <ul>
 <li><strong>[Feb. 2026]</strong> I will give a talk on data-efficient learning at <a href="https://cse.ucsd.edu/">UC San Diego</a>.</li>
 <li><strong>[Nov. 2025]</strong> Recognized as a <a href="https://nips.cc/Conferences/2025/ProgramCommittee#top-ac">Top Area Chair</a> at <a href="https://nips.cc/Conferences/2025/">NeurIPS 2025</a>.</li>
 <li><strong>[Nov. 2025]</strong> Selected for the <a href="https://aaai.org/conference/aaai/aaai-26/new-faculty-highlights-program/">AAAI-26 New Faculty Highlights Program</a>.</li>
@@ -41,4 +41,4 @@
   <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li>
 </div>
 
-</ul>
+</ul> --> -->
