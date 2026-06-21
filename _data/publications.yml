@@ -1,5 +1,15 @@
 main:
 
+  - title: "CerDETR: Cell-Prior Empowered DETR for Cervical Lesion Detection"
+    authors: Linyun Zhou, Jin Chen, Weihan Li, Hengrui Lou, <strong>Lingxiang Jia<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Weijun Qin, Xiuming Zhang, Zunlei Feng
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
+    # pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
+    # bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+    # data: https://github.com/wufeim/imagenet3d
+    # page: https://imagenet3d.github.io/
+    # image: https://img.yliu.me/teaser/imagenet3d.png
+
 #   - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
 #     authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
 #     conference_short: NeurIPS
