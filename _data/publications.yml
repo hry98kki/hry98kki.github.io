@@ -46,3 +46,23 @@ main:
     conference: Journal of Software, 2025.
     pdf: https://www.jos.org.cn/jos/article/pdf/7423
     code: https://github.com/horrible-dong/PA-GNN
+
+  - title: "Association Pattern-enhanced Molecular Representation Learning"
+    authors: <strong>Lingxiang Jia</strong>, Yuchen Ying, Tian Qiu, Shaolun Yao, Liang Xue, Jie Lei, Jie Song, Mingli Song, Zunlei Feng 
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://doi.org/10.1609/aaai.v39i17.33935
+    code: https://github.com/hry98kki/APMP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/jlx-AAAI.png
+    notes: Oral Presentation
+
+  - title: "Global Attribute-Association Pattern Aggregation for Graph Fraud Detection"
+    authors: Mingjiang Duan, Da He, Tongya Zheng, <strong>Lingxiang Jia</strong>, Mingli Song, Xinyu Wang, Zunlei Feng
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://doi.org/10.1609/aaai.v39i11.33264
+    code: https://github.com/AtwoodDuan/GAAP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/dmj-AAAI.png
+    notes: Oral Presentation
