@@ -28,7 +28,17 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.pdf
     bibtex: https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.html
     code: https://github.com/GAry45v/REF-CFA
-    page: https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.html
+    # page: https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.html
+
+  - title: "TED-DTMoA: Tri-Comparison Expertise Decision for Drug-Target Mechanism of Action"
+    authors: <strong>Lingxiang Jia</strong>, Zipeng Zhong, Shaolun Yao, Jie Song, Mingli Song, Zunlei Feng
+    conference_short: ECAI
+    conference: European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2025.
+    pdf: https://doi.org/10.3233/FAIA251079
+    # code: https://github.com/AtwoodDuan/GAAP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/dmj-AAAI.png
+    notes: Poster Presentation
     
 
 #   - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
