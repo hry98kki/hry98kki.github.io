@@ -14,6 +14,7 @@ main:
     authors: Hengrui Lou, Weihan Li, Jiazhen Yang, <strong>Lingxiang Jia</strong>, Shengxuming Zhang, Linyun Zhou, Xiuming Zhang, Zhenyang Wang, Mingli Song, Zunlei Feng
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    code: https://github.com/HengruiLou/Cello
     # pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
     # bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
     # data: https://github.com/wufeim/imagenet3d
