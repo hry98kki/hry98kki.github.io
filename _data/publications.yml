@@ -21,6 +21,15 @@ main:
     # page: https://imagenet3d.github.io/
     # image: https://img.yliu.me/teaser/imagenet3d.png
 
+  - title: "Anomaly-Related Residual Fields for Cross-domain Anomaly Detection"
+    authors: Kewei Gao, Jiayi Xie, Zhengda Shen, Weijun Qin, <strong>Lingxiang Jia</strong>, Kejia Chen, Zunlei Feng, Yijun Bei
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.pdf
+    bibtex: https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.html
+    code: https://github.com/GAry45v/REF-CFA
+    page: https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Anomaly-Related_Residual_Fields_for_Cross-domain_Anomaly_Detection_CVPR_2026_paper.html
+    
 
 #   - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
 #     authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
