@@ -3,9 +3,9 @@
 <ul>
 
 <li><strong>[Jul. 2025]</strong> One paper about drug-target mechanism of action is accepted to ECAI 2025 (CORE A, CCF-B).</li>
-<li><strong>[Mar. 2025]</strong> Our work ''Recent advances in deep learning for retrosynthesis'' is recognized as the top 10 most-cited papers published by WIREs Computational Molecular Science in 2023.</li>
+<li><strong>[Mar. 2025]</strong> Our work "Recent advances in deep learning for retrosynthesis" is recognized as the top 10 most-cited papers published by WIREs Computational Molecular Science in 2023.</li>
 <li><strong>[Mar. 2025]</strong> One paper is accepted to Journal of Software (CCF-A), which is one of three top-tier journals in the field of computer science in China.</li>
-<li><strong>[Jan. 2025]</strong> Both the two accepted papers are selected as **oral presentation** (Top 4.6%) in AAAI 2025.</li>
+<li><strong>[Jan. 2025]</strong> Both the two accepted papers are selected as <strong>oral presentation</strong> (Top 4.6%) in AAAI 2025.</li>
   
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
