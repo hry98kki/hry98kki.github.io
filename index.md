@@ -4,13 +4,11 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<!-- <h2 style="margin: 80px 0px 10px;"></h2>
+<h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) and the [Coordinated Science Laboratory](https://csl.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). I am also affiliated with the [Siebel School of Computing and Data Science](https://cs.illinois.edu/) (formerly the Department of Computer Science) and the [Department of Electrical & Computer Engineering](https://ece.illinois.edu/).
+I am an Assistant Professor in the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) and the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/english/). Previously, I received my Ph.D. in Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/) and my B.S. in Software Engineering at [Nankai University](https://en.nankai.edu.cn/).
 
-Previously, I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my B.S. in Electronic Information Engineering at [Tianjin University](https://en.tju.edu.cn/). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). 
-
-My research lies at the intersection of **computer vision** and **machine learning**, with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical image analysis**. -->
+My research lies at the intersection of **computer vision** and **machine learning**, with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical image analysis**.
 
 
 <div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
