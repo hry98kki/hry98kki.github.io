@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) and the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/english/). Previously, I received my Ph.D. in Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/) and my B.S. in Software Engineering at [Nankai University](https://en.nankai.edu.cn/).
+I am an Assistant Professor in the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) and the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/). Previously, I received my Ph.D. in Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/) and my B.S. in Software Engineering at [Nankai University](https://en.nankai.edu.cn/).
 
 My research lies at the intersection of **computer vision** and **machine learning**, with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical image analysis**.
 
