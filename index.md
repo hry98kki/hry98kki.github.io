@@ -13,6 +13,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 <div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
 <!-- <strong style="color:#c0392b;">For prospective students: If you are interested in working with me, please see details <a href="https://vision.ischool.illinois.edu/openings/">here</a>.</strong> -->
+<strong style="color:#c0392b;">For prospective students: If you are interested in working with me, please free free to contact me with [E-mail](lingxiangjia@zju.edu.cn).</strong> 
 </div>
 
 
