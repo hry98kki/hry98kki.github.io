@@ -20,6 +20,7 @@ main:
     # data: https://github.com/wufeim/imagenet3d
     # page: https://imagenet3d.github.io/
     # image: https://img.yliu.me/teaser/imagenet3d.png
+    notes: Poster Presentation
 
   - title: "Anomaly-Related Residual Fields for Cross-domain Anomaly Detection"
     authors: Kewei Gao, Jiayi Xie, Zhengda Shen, Weijun Qin, <strong>Lingxiang Jia</strong>, Kejia Chen, Zunlei Feng, Yijun Bei
@@ -90,7 +91,7 @@ main:
   - title: "Improving Adversarial Robustness via Feature Pattern Consistency Constraint"
     authors: Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, Shunyu Liu, Xiaotian Yu, <strong>Lingxiang Jia</strong>, Mingli Song
     conference_short: IJCAI
-    conference: The Thirty-third International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2024.
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2024.
     pdf: https://www.ijcai.org/proceedings/2024/0094.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sVjxZr2BcU8J:scholar.google.com/&output=citation&scisdr=ClHYdR8zEMj16bvo-xw:AFWwaeYAAAAAZwPu4xzB9Lbx-Bf60DgZ_uGxBVo&scisig=AFWwaeYAAAAAZwPu42HnHBKJrJ3n2GXNavHqCas&scisf=4&ct=citation&cd=-1&hl=en
