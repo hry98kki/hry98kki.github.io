@@ -30,7 +30,7 @@ main:
     # data: https://github.com/wufeim/imagenet3d
     # page: https://imagenet3d.github.io/
     # image: https://img.yliu.me/teaser/imagenet3d.png
-    notes: Poster Presentation
+    # notes: Poster Presentation
 
   - title: "Anomaly-Related Residual Fields for Cross-domain Anomaly Detection"
     authors: Kewei Gao, Jiayi Xie, Zhengda Shen, Weijun Qin, <strong>Lingxiang Jia</strong>, Kejia Chen, Zunlei Feng, Yijun Bei
@@ -49,7 +49,7 @@ main:
     # code: https://github.com/AtwoodDuan/GAAP
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/dmj-AAAI.png
-    notes: Poster Presentation
+    # notes: Poster Presentation
     
   - title: "Path-aggregation-based Graph Fraud Detection"
     authors: Tian Qiu, <strong>Lingxiang Jia</strong>, Yang Gao, Zunlei Feng, Yi Gao, Mingli Song
@@ -86,7 +86,7 @@ main:
     code: https://github.com/hry98kki/PatternBERP
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/jlx-NeurIPS.png
-    notes: Poster Presentation
+    # notes: Poster Presentation
 
   - title: "Vision Mamba Mender"
     authors: Jiacong Hu, Anda Cao, Zunlei Feng, Shengxuming Zhang, Yi Wang, <strong>Lingxiang Jia</strong>, Mingli Song
@@ -96,7 +96,7 @@ main:
     code: https://github.com/jiaconghu/Vision-Mamba-Mender
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/hjc-NeurIPS.png
-    notes: Poster Presentation
+    # notes: Poster Presentation
 
   - title: "Improving Adversarial Robustness via Feature Pattern Consistency Constraint"
     authors: Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, Shunyu Liu, Xiaotian Yu, <strong>Lingxiang Jia</strong>, Mingli Song
@@ -106,7 +106,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sVjxZr2BcU8J:scholar.google.com/&output=citation&scisdr=ClHYdR8zEMj16bvo-xw:AFWwaeYAAAAAZwPu4xzB9Lbx-Bf60DgZ_uGxBVo&scisig=AFWwaeYAAAAAZwPu42HnHBKJrJ3n2GXNavHqCas&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/hjc-IJCAI.png
-    notes: Poster Presentation
+    # notes: Poster Presentation
 
   - title: "Recent Advances in Deep Learning for Retrosynthesis"
     authors: Zipeng Zhong, Jie Song, Zunlei Feng, Tiantao Liu, <strong>Lingxiang Jia</strong>, Shaolun Yao, Tingjun Hou, Mingli Song
